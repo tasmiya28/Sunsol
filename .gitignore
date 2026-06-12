@@ -1,0 +1,32 @@
+# MATLAB
+slprj/
+*.asv
+*.autosave
+*.mat
+*.l
+*.mex*
+*.mdl
+*.slx.autosave
+
+# Python
+__pycache__/
+*.py[cod]
+env/
+venv/
+
+# Node
+node_modules/
+dist/
+
+# VSCode
+.vscode/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Reports / generated
+/sunsol_layer4/backend/reports/
